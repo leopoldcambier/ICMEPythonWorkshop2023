@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# ICME Python Summer Workshop, 2023 edition
+# Workshop Description
 This class introduces Python. Python is an easy to learn, versatile and powerful programming language. It can be used in many situations, from simple terminal scripting to data center-scale training for large language models.
 
 This class is designed for maximum interactivity. It will consist of slides and lectures, mini-group exercises, quizzes and homework between the two sessions.
@@ -22,6 +22,7 @@ Leopold graduated from ICME at Stanford with a Ph.D. in Computational and Mathem
 
 ## About the Workshop Assistant
 ![Tianyu](/assets/img/tianyu.jpg){:style="max-width:30%;"}
+
 Tianyu is a Ph.D. student in the Institute for Computational and Mathematical Engineering (ICME) at Stanford University working with Prof. Susan Athey and Prof. Daniel McFarland. After receiving his Bachelor's degree in economics and mathematics at University of Toronto, Tianyu received his master's degree in Management Science and Engineering (MS\&E) at Stanford. His research has focused on the application of machine learning methods on social sciences.
 
 # Workshop Materials
@@ -35,10 +36,6 @@ For instance, a student that took a statistics class using R for homeworks is re
 To attend this class, you’ll need a laptop or a desktop computer (Windows, Mac or Linux) with Zoom and a recent web browser. No installation of Python will be required. More detailed instructions will be provided prior to the class.
 
 ## Schedule
-TODO(instructor): Make sure the dates and times are accurate below for your
-course. E.g. replace `?`'s with the hour (or time-of-day)
-that your course starts. Adjust time schedules within each session.
-
 This class will focus on the basic building blocks for Python in scientific computing and data science, Specifically, we will cover:
 
 #### Session 1 (July 24, Monday, 1:00 P.M. - 4:00 P.M. PST)
