@@ -36,7 +36,7 @@ For instance, a student that took a statistics class using R for homeworks is re
 To attend this class, you’ll need a laptop or a desktop computer (Windows, Mac or Linux) with Zoom and a recent web browser. No installation of Python will be required. More detailed instructions will be provided prior to the class.
 
 ## Schedule
-This class will focus on the basic building blocks for Python in scientific computing and data science, Specifically, we will cover:
+This class will focus on the basic building blocks for Python in scientific computing and data science. Specifically, we will cover:
 
 #### Session 1 (July 24, Monday, 1:00 P.M. - 4:00 P.M. PST)
 - General Python
