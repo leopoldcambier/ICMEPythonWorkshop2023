@@ -3,12 +3,12 @@ layout: default
 ---
 
 # Workshop Description
-This class introduces Python. Python is an easy to learn, versatile and powerful programming language. It can be used in many situations, from simple terminal scripting to data center-scale training for large language models.
-
-This class is designed for maximum interactivity. It will consist of slides and lectures, mini-group exercises, quizzes and homework between the two sessions.
+Welcome to the world of Python programming! Whether you're a beginner or an experienced coder, Python can be the perfect programming platform for you. With its ease of use, versatility, and power, Python can be applied in a wide range of situations, from simple scripting to advanced tasks like training large language models. Join us in this interactive workshop to discover the joy of programming in Python! Throughout the workshop, you will engage in a variety of activities, including captivating slides and lectures, stimulating group exercises, enjoyable quizzes, and even a "homework" assignment to tackle between sessions.
 
 ## Class outcome
-After this class, you will
+By the end of the workshop, you will be able to solve simple problems by applying your programming skills in Python. You will know how to utilize Python documentation and other resources to seek help and enhance your learning. You will gain a clear understanding of the specific tasks where Python excels. You will familiarize yourself with the capabilities of fundamental scientific and data science Python modules. You will recognize the place of Python within the broader programming language ecosystem.
+
+Specifically, this workshop helps you to
 - Know what Python is, how it fits in the programming language ecosystem
 - What problems Python is well suited to solve
 - Be able to write simple Python program
@@ -28,7 +28,7 @@ Tianyu is a Ph.D. student in the Institute for Computational and Mathematical En
 # Workshop Materials
 
 ## Audience
-This class assumes no prior knowledge of Python. However, basic knowledge (e.g. variables, if/else, for loop) of another programming language is required.
+This class assumes no prior knowledge of Python. However, familiarity with fundamental programming concepts is required before attending a Python workshop. Participants should have a grasp of concepts such as variables, data types, loops, conditional statements, and functions. Prior exposure to any programming language will help participants quickly adapt to Python syntax and programming principles.
 
 For instance, a student that took a statistics class using R for homeworks is ready for this class. On the other hand, a student with no programming experience whatsoever will find this class very difficult.
 
