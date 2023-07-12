@@ -38,7 +38,7 @@ To attend this class, you’ll need a laptop or a desktop computer (Windows, Mac
 ## Schedule
 This class will focus on the basic building blocks for Python in scientific computing and data science. Specifically, we will cover:
 
-#### Session 1 (July 24, Monday, 1:00 P.M. - 4:00 P.M. PST)
+#### Session 1 (July 24, Monday, 1:00 P.M. - 4:00 P.M. PT)
 - General Python
   - What is Python? When is it useful?
   - Variables
@@ -47,7 +47,7 @@ This class will focus on the basic building blocks for Python in scientific comp
   - Functions
   - How to read Python’s documentation
 
-#### Session 2 (July 25, Tuesday, 1:00 P.M. - 4:00 P.M. PST)
+#### Session 2 (July 25, Tuesday, 1:00 P.M. - 4:00 P.M. PT)
 - Numpy
   - What is Numpy and why do we need it?
   - Arrays
