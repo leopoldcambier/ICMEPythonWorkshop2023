@@ -55,6 +55,8 @@ This class will focus on the basic building blocks for Python in scientific comp
 - Pandas
   - Dataframes
   - Pivots
+- Visualization
+  - Visualizing pandas dataframes
 - The Python plotting ecosystem
   - Topic 1 with example time-allocation.
   - Topic 2 with example time-allocation, etc.
