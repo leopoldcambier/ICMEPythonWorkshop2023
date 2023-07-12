@@ -56,11 +56,9 @@ This class will focus on the basic building blocks for Python in scientific comp
   - Dataframes
   - Pivots
 - Visualization
-  - Visualizing pandas dataframes
-- The Python plotting ecosystem
-  - Topic 1 with example time-allocation.
-  - Topic 2 with example time-allocation, etc.
-  - 15 minute Q&A
+  - The Python plotting ecosystem
+  - Visualizing Pandas dataframes
+  - Plotly
 
 ## Additional Resources
 More information on the class can be found [here](https://icme.stanford.edu/icme-summer-workshops-2023-details#02). Register [here](https://icme.stanford.edu/icme-summer-workshops-2023-fundamentals-data-science). We will be answering questions posted on [Piazza](https://piazza.com/stanford/summer2023/icmeintropythonworkshop).
