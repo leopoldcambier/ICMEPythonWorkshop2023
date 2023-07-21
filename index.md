@@ -61,4 +61,8 @@ This class will focus on the basic building blocks for Python in scientific comp
   - Plotly
 
 ## Additional Resources
-More information on the class can be found [here](https://icme.stanford.edu/icme-summer-workshops-2023-details#02). Register [here](https://icme.stanford.edu/icme-summer-workshops-2023-fundamentals-data-science). We will be answering questions posted on [Piazza](https://piazza.com/stanford/summer2023/icmeintropythonworkshop).
+More information on the class can be found [here](https://icme.stanford.edu/icme-summer-workshops-2023-details#02). Register [here](https://icme.stanford.edu/icme-summer-workshops-2023-fundamentals-data-science). 
+
+The class will take place on [Zoom](https://stanford.zoom.us/j/99081966671?pwd=QitGZktCV2JQcSsvU284c3JlenY4UT09).
+
+We will be answering questions posted on [Piazza](https://piazza.com/stanford/summer2023/icmeintropythonworkshop).
