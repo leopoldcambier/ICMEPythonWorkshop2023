@@ -66,3 +66,10 @@ More information on the class can be found [here](https://icme.stanford.edu/icme
 The class will take place on [Zoom](https://stanford.zoom.us/j/99081966671?pwd=QitGZktCV2JQcSsvU284c3JlenY4UT09).
 
 We will be answering questions posted on [Piazza](https://piazza.com/stanford/summer2023/icmeintropythonworkshop).
+
+## Links
+- [Slides](https://docs.google.com/presentation/d/1JoW5JSCjiXT5ojQk071oR9BKc0o2I75Z15KLnEC_qQA/edit?usp=drive_link)
+- [Day 1 notebook with answers](https://drive.google.com/file/d/1xZFJuKdKIGYlaCJjAqGJEXj8z_MEB0Nh/view?usp=drive_link) (Click on "Open in Collab" at the top if needed)
+- [Day 2 notebook with answers](https://drive.google.com/file/d/16ijuPZcsLkwRWrcKANQzKep8a2D-M1Jw/view?usp=drive_link) (Click on "Open in Collab" at the top if needed)
+- [Homework with answers](https://colab.research.google.com/drive/1HGYHFfFpXksfTQ7vXifvqlY0hobE3Dsc?usp=drive_link) (Click on "Open in Collab" at the top if needed)
+- Recording TBD
