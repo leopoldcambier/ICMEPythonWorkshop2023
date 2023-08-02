@@ -72,4 +72,4 @@ We will be answering questions posted on [Piazza](https://piazza.com/stanford/su
 - [Day 1 notebook with answers](https://drive.google.com/file/d/1xZFJuKdKIGYlaCJjAqGJEXj8z_MEB0Nh/view?usp=drive_link) (Click on "Open in Collab" at the top if needed)
 - [Day 2 notebook with answers](https://drive.google.com/file/d/16ijuPZcsLkwRWrcKANQzKep8a2D-M1Jw/view?usp=drive_link) (Click on "Open in Collab" at the top if needed)
 - [Homework with answers](https://colab.research.google.com/drive/1HGYHFfFpXksfTQ7vXifvqlY0hobE3Dsc?usp=drive_link) (Click on "Open in Collab" at the top if needed)
-- Recording TBD
+- [Class Recording](https://drive.google.com/drive/folders/1EwGJqJHm8Qy7ds8pfclTXgraehBoxxbJ?usp=sharing) 
